@@ -1,5 +1,7 @@
 # Creating EC2 Instances using Terraform
 
+![terrafom](https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg)
+
 Terraform allow you to manage infrastructure with configuration files rather than through a graphical user interface.
 Objective
 
