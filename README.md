@@ -28,7 +28,7 @@ terraform apply
 ## Result 
 
 ``` hcl
-jisjo@jisjo-X541UAK ~/Documents/fuji/terraform/day-3-variables-ec2-key-pair-security-grp $ terraform apply
+jisjo@jisjo ~$ terraform apply
 aws_key_pair.terrafom_key: Refreshing state... [id=terrafom-key]
 aws_security_group.terraform_web_allow_http: Refreshing state... [id=sg-06601c4dde8476253]
 aws_security_group.terraform_web_allow_remote: Refreshing state... [id=sg-03946b925cbf65fc9]
